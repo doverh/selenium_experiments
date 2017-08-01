@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SeleniumTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SeleniumTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/selenium/SeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -22,6 +22,18 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#900#901#0" expanded="true" />
                 <element signature="e#929#930#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DownloadFile.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/test/selenium/DownloadFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,6 +58,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/selenium/SeleniumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/selenium/DownloadFile.java" />
       </list>
     </option>
   </component>
@@ -107,6 +120,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First_Selenium_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First_Selenium_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,7 +277,7 @@
       <option name="presentableId" value="Default" />
       <updated>1501601664031</updated>
       <workItem from="1501601670521" duration="3082000" />
-      <workItem from="1501606698519" duration="159000" />
+      <workItem from="1501606698519" duration="1603000" />
     </task>
     <servers />
   </component>
@@ -269,7 +290,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3241000" />
+    <option name="totallyTimeSpent" value="4685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -351,6 +372,16 @@
             <element signature="imports" expanded="true" />
             <element signature="e#900#901#0" expanded="true" />
             <element signature="e#929#930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/selenium/DownloadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
